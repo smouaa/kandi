@@ -212,9 +212,9 @@ const styles = StyleSheet.create({
     paddingLeft: 10,
   },
   avatar: {
-    width: 50, // Set the width of the image
-    height: 50, // Set the height of the image
-    borderRadius: 50, // Set borderRadius for a circular avatar (adjust as needed)
+    width: 50, 
+    height: 50, 
+    borderRadius: 50, 
   },
   userContainer: {
     padding: 13,
