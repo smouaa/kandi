@@ -5,6 +5,7 @@ When opening Kandi for the first time, users are prompted to login or create a n
 
 Users can complete tasks—which are classified into individual and group tasks—to earn beads that are then added to their personal string. Users can also easily search up friends that they want to add and view the profile of. Once a user has added at least one friend, the community page updates to include events that the user’s friends are going to, and they are able to create a group to complete a group task. All user data is saved to a database hosted on Supabase.
 
+![IMG_6100](https://github.com/smouaa/kandi-cs147L-/assets/127175097/57e38eb9-14b7-4d74-a7d1-f393d49ca37e)
 
 Directions:
 
